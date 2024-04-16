@@ -15,7 +15,7 @@ st.image('pngwing.com-13.png', use_column_width= True, )
 
 st.header('Project Background Information',divider = True)
 st.write("The overarching objective of this ambitious project is to meticulously engineer a highly sophisticated predictive model meticulously designed to meticulously assess the intricacies of startup profitability. By harnessing the unparalleled power and precision of cutting-edge machine learning methodologies, our ultimate aim is to furnish stakeholders with an unparalleled depth of insights meticulously delving into the myriad factors intricately interwoven with a startup's financial success. Through the comprehensive analysis of extensive and multifaceted datasets, our mission is to equip decision-makers with a comprehensive understanding of the multifarious dynamics shaping the trajectory of burgeoning enterprises. Our unwavering commitment lies in empowering stakeholders with the indispensable tools and knowledge requisite for making meticulously informed decisions amidst the ever-evolving landscape of entrepreneurial endeavors.")
-
+jhsfksfjsfksfj
 st.markdown("<br>", unsafe_allow_html= True)
 st.markdown("<br>", unsafe_allow_html= True)
 
